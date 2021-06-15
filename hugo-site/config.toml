@@ -24,11 +24,6 @@ pygmentsCodeFences = true
 [menu]
 #[[menu.before]]
 [[menu.after]]
-  name = "Curriculum vitae"
-  url = "vikas_raykar_cv_feb_2021.pdf"
-  weight = 10
-
-[[menu.after]]
   name = "Linkedin"
   url = "https://www.linkedin.com/in/vikas-raykar-a078695/"
   weight = 20
