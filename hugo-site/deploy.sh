@@ -19,6 +19,8 @@ mv -f public/* ..
 
 cd ..
 
+touch .nojekyll
+
 git add --all
 
 msg="rebuilding site `date`"
@@ -27,4 +29,4 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git push origin master
+git push
