@@ -18,9 +18,9 @@ May 2007
 *Electrical Engineering* \
 [University of Maryland, College Park](https://ece.umd.edu/) \
 Major: Signal Processing | Minor: Computer Engineering \
-Thesis: **Position calibration of acoustic sensors and actuators on distributed general purpose computing platforms**
-GPA: 3.828/4.0 \
+Thesis: **Position calibration of acoustic sensors and actuators on distributed general purpose computing platforms** \
 Advisors: [Professor Dr. Ramani Duraiswami](https://www.cs.umd.edu/people/rduraisw) and [Professor Dr. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/) \
+GPA: 3.828/4.0 \
 December 2003
 
 ## Bachelor of Engineering
